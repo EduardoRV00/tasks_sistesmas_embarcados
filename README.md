@@ -1,2 +1,3 @@
 # tasks_sistesmas_embarcados
-Sistemas Embarcados
+## Sistemas Embarcados 
+- Repositório destinado a armazenar atividades da matéria de Sistemas Embarcados.
